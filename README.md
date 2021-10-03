@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 #### I'm Mengjie Shen. I am a Computer Science undergraduate student. I'm from Shanghai, China. Currently, I live in Abu Dhabi, UAE.
 
