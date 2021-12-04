@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning Computer Vision
 - 📫 How to reach me: ms11141(@)nyu.edu
+- 👩‍💻 All of my projects are available at [my portfolio website](https://ms11141.wixsite.com/mengjieshen)!
+
 
 ## 🧰 Languages and Tools:
 <!-- https://github.com/Ileriayo/markdown-badges#how-to-use -->
