@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-#### I'm Mengjie Shen. I am a Computer Science undergraduate student. I'm from Shanghai, China. Currently, I live in Abu Dhabi, UAE.
+#### I'm Mengjie Shen. I am a Computer Science undergraduate student. I'm from Shanghai, China. Currently, I live in Pittsburgh, Pennsylvania.
 
 
-- 🌱 I’m currently learning Computer Vision
-- 📫 How to reach me: ms11141(@)nyu.edu
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me: mengjies(@)cs.cmu.edu
 - 👩‍💻 All of my projects are available at [my portfolio website](https://ms11141.wixsite.com/mengjieshen)!
 
 
