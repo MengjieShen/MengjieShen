@@ -36,9 +36,6 @@
 </br>
 </br>
 
-## 📖 Statistics
-<!-- github stats: https://github.com/anuraghazra/github-readme-stats/blame/master/themes/README.md -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MengjieShen&show_icons=true&theme=tokyonight)
 
 <br />
 
